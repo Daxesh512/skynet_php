@@ -1,0 +1,1046 @@
+html,
+body
+{
+    direction: rtl;
+}
+input[type="email"]{
+    text-align: left;
+}
+.owl-carousel,
+.slick-slider,
+input[type="email"]
+{
+    direction: ltr;
+}
+
+
+
+.header-top .header-left-side,
+.single-banner .banner-overlay .banner-content,
+.who-we-are-section .section-title,
+.solution-section .solution-overlay .solution-content,
+.latest-services-section .single-services .services-content,
+.case-studies-section .section-title,
+.our-choose-section .section-title,
+.our-choose-section .accordion .card .card-header a,
+.our-choose-section .accordion .card .card-body,
+.our-choose-section .our-choose-counter,
+.meet-us-section .meet-us-item .title,
+.news-section .single-news .single-news-overlay,
+.widget-item-1,
+.widget-item-2,
+.widget-item-3,
+.widget-item-4,
+.services-item-section .single-services-item .services-overlay .title,
+.services-item-section .single-services-item .services-overlay,
+.intro-video-section .intro-overlay .intro-video-content,
+.asnwers-section .section-title,
+.faq-accordion-2 .accordion .card .card-header a,
+.faq-accordion-2 .accordion .card .card-body,
+.portfolio-section .single-portfolio .portfolio-content,
+.faq-section .section-title,
+.faq-section .faq-accordion .accordion .card .card-header,
+.faq-section .faq-accordion .accordion .card .card-body,
+.faq-section .single-faq,
+.action-section .action-bg .action-content .title,
+.blog-section .single-blog,
+.choose-section .section-title,
+.portfolio-3-section .single-portfolio .portfolio-content,
+.about-experience-section .experience-item,
+.about-history-section .history-item .history-content,
+.service-details-page .service-details-content,
+.blog-grid-section .blog-grid-item .blog-grid-overlay,
+.blog-grid-section.portfolio-page .case-live .case-live-item-section .case-live-item,
+.faq-accordion-3 .accordion .card .card-header a,
+.faq-accordion-3 .accordion .card .card-body,
+.blog-sidebar-section .sidebar-feeds .sidebar-feeds-item .title,
+.blog-sidebar-section .sidebar-tags ul li a,
+.blog-standard .single-blog-standard .blog-standard-content,
+.banner-slider .banner-content,
+.whu-section .section-title,
+.feature-list li,
+.service-item-four.no-border,
+.portfolio-item:hover .portfolio-content,
+.testimonials-section .section-title,
+.testimonial-box-two .testimonial-inner .content,
+.counter-box-two,
+.accordion-one.white-version .card,
+.counter-faq-section-one .section-title,
+.call-to-action-two .call-to-action-inner .title,
+.latest-news-box .post-content,
+.about-section .section-title,
+.about-text-block,
+.service-item-two,
+.portfolio-area.portfolio-area-shape .section-title,
+.testimonial-box p,
+.section-title.white-color .title-tag, 
+.section-title.white-color .title, 
+.section-title.white-color p,
+.portfolio-item-two .portfolio-content,
+.faq-section .section-title-two,
+.accordion-three .card,
+.counter-box-four,
+.counter-faq-section .section-title-two,
+.section-title-two.white-color .title-tag, 
+.section-title-two.white-color .title,
+.cart-total-box .title,
+.checkout-area .g-title,
+.table-bordered td, .table-bordered th,
+.patment-area,
+.video-cta .video-cta-content,
+.service-item-four,
+.portfolio-area .section-title.mb-md-gap-30,
+.counter-box-three,
+.counter-faq-section .section-title,
+.accordion-one .card,
+.header-navigation .primary-menu li .submenu li,
+.header-navigation .primary-menu .megamenu-item .megamenu .product-item .product-content,
+.header-topbar .top-left-content .language-change .language-menu,
+.header-topbar .top-right-wrapper .language-change .language-menu
+
+{
+    text-align: right !important;
+}
+
+.counter-box-three p{
+    padding-right: 0px;
+}
+.wow {
+visibility: visible !important;
+-webkit-animation: none !important;
+-moz-animation: none !important;
+-o-animation: none !important;
+-ms-animation: none !important;
+animation: none !important;
+}
+.conatct-section .contact-form-area .contact-form .form-title {
+    padding-right: 0px;
+    text-align: right;
+}
+
+.header-topbar .top-right-wrapper .language-change .name i {
+    margin-right: 0PX;
+    margin-left: 5PX;
+}
+.conatct-section  .section-title.white-color.text-center,
+.conatct-section  .section-title.white-color.text-center .title
+{
+    text-align: center!important;
+}
+
+.why-choose-area  .section-title.white-color.text-center .title{
+    text-align: center!important;
+}
+
+.service-item-four .services-content .title::before {
+    left: auto;
+    right: 0px;
+}
+
+
+.service-section.service-with-shape .title-tag,
+.service-section.service-with-shape .title
+{
+    display: block;
+    text-align: center!important;
+}
+
+
+.header-top .right-section,
+.solution-play,
+.action-btn.text-left.text-lg-right
+{
+    text-align: left !important;
+}
+label{
+    display: block;
+    text-align: right;
+}
+.banner-section .banner-img {
+    right: auto;
+    left: -70px;
+}
+.banner-section.home2 .banner-content{
+    text-align: right;
+}
+.banner-section .banner-content .banner-btns li a .icon {
+    margin-right: 0px;
+    margin-left: 30px;
+}
+.banner-section .banner-content .banner-btns li:not(:last-child) {
+    margin-right: 0px;
+    margin-left: 75px;
+}
+.header-navigation .header-extra .my-dropdown:hover .my-dropdown-menu{
+    right: auto;
+    left: 0px;
+}
+.header-two.header-three.header-full-width .header-navigation .header-extra .my-dropdown .cart .icon i{
+    color: #555;
+}
+.accordion-one .card .card-header a i {
+    padding-right: 5px;
+    transform: rotate(-180deg);
+}
+.testimonials-arrow .slick-arrow.next {
+    margin-left: 0px;
+    margin-right: 15px;
+}
+.testimonials-arrow .slick-arrow i,
+.latest-news-box .post-content .read-more-btn i,
+.portfolio-arrow .slick-arrow i,
+.main-btn.icon-right i,
+.service-item-four .services-content .service-link i
+{
+    transform: rotate(-180deg);
+}
+.portfolio-arrow-two .slick-arrow i{
+    transform: rotate(-180deg);
+}
+.service-item-four .services-content .title{
+    text-align: right!important;
+}
+.feature-list li::before {
+    left: auto;
+    right: 0;
+}
+
+.about-text-block .about-experience h3 {
+    padding-right: 0px;
+    padding-left: 15px;
+}
+.about-text-block .about-experience h3::before{
+    display: none;
+}
+.about-text-block .about-btns li:not(:last-child) {
+    margin-right: 0px;
+    margin-left: 20px;
+}
+.portfolio-arrow .slick-arrow.next, .portfolio-arrow-two .slick-arrow.next {
+    margin-left: 0px;
+    margin-right: 15px;
+}
+
+.testimonials-section.soft-blue-bg .section-title.text-center{
+    text-align: center!important;
+}
+.header-navigation .header-extra .my-dropdown .my-dropdown-menu .dropdownmenu-wrapper .dropdown-cart-products .product .product-details {
+    text-align: right;
+    padding-left: 0px;
+    padding-right: 10px;
+}
+
+.header-navigation .header-extra .my-dropdown .my-dropdown-menu .dropdownmenu-wrapper .dropdown-cart-products .product .product-image-container .cart-remove {
+    left: auto;
+    right: -10px;
+}
+
+
+.portfolio-item .portfolio-link {
+    right: auto;
+    left: -50px;
+}
+.portfolio-item .portfolio-link i,
+.footer-area .widget-item-2 ul li i
+{
+    transform: rotate(-180deg);
+}
+
+.header-topbar .top-left-content .language-change {
+    margin-right: 0px;
+    margin-left: 25px;
+}
+.header-topbar .top-left-content .language-change.curr-change {
+    margin-left: 0px;
+    margin-right: 25px;
+}
+.header-topbar .top-left-content .language-change.curr-change::before {
+    left: 0px;
+    right: -27px;
+}
+.header-topbar .top-left-content .language-change .name i {
+    margin-right: 0px;
+    margin-left: 5px;
+}
+.header-topbar .social-icon li:not(:first-child) {
+    margin-left: 0px;
+    margin-right: 15px;
+}
+.header-topbar .top-right-wrapper .language-change {
+    margin-left: 0px;
+    padding-left: 0px;
+    margin-right: 30px;
+    padding-right: 30px;
+}
+
+.header-topbar .top-right-wrapper .language-change::after {
+    left: auto;
+    right: 0px;
+}
+.header-topbar .top-right-wrapper .language-change .language-menu {
+    right: auto;
+    left: 0px;
+}
+.header-topbar .top-right-wrapper .language-change .name .l-icon {
+    margin-right: 0px;
+    margin-left: 4px;
+}
+.header-topbar .top-right-wrapper .language-change .name .r-icon {
+    margin-left: 0px;
+    margin-right: 4px;
+}
+.header-navigation .header-extra{
+    margin-left: 0px;
+    margin-right: 20px;
+}
+.header-navigation .navbar-btn {
+    margin-left: 0px;
+    margin-right: 30px;
+}
+.header-navigation .primary-menu .megamenu-item .megamenu .tabnav a{
+    text-align: right;
+}
+.header-navigation .primary-menu li a.p-link .dd-trigger2 {
+    margin-left: 0px;
+    margin-right: 4px;
+}
+
+
+.breadcrumb-itemrgb(141, 141, 141)crumb-item::before {
+    padding-right: auto;
+    padding-left: .5rem;
+}
+.breadcrumb-item+.breadcrumb-item {
+    padding-left: 0rem;
+    padding-right: .5rem;
+}
+.blog-standard .single-blog-standard .blog-standard-content .blog-flex .blog-right a i {
+    padding-right: 0px;
+    padding-left: 15px;
+    transform: rotate(180deg);
+}
+
+.blog-standard .single-blog-standard .blog-standard-content ul li i {
+    padding-right: 0px;
+    padding-left: 6px;
+}
+.blog-standard .single-blog-standard .blog-standard-content ul li {
+    margin-right: 0px;
+}
+.blog-standard .single-blog-standard .blog-standard-content .title{
+    padding-right: 0px;
+}
+.blog-sidebar-section .sidebar-categories ul li a {
+    padding-left: 0pa;
+    padding-right: 30px;
+    text-align: right;
+}
+
+.blog-sidebar-section .sidebar-categories ul li a span {
+    right: auto;
+    left: 0px;
+}
+
+.blog-sidebar-section .sidebar-feeds .sidebar-feeds-item img {
+    margin-right: 0px;
+    margin-left: 20px;
+}
+.faq-accordion-3 .accordion .card .card-header a::before {
+    right: auto;
+    left: 36px;
+}
+
+.faq-accordion-3 .accordion .card .card-header a{
+    padding-right: 40px;
+}
+
+.faq-accordion-3 .accordion .card .card-header a i{
+    display: none;
+}
+
+
+.team-details-section .team-details-content {
+    padding-right: 0px;
+    padding-left: 0px;
+    text-align: right;
+}
+
+.blog-grid-section.portfolio-page .case-live .case-live-item-section .case-live-item i{
+    left: auto;
+    right: 0px;
+}
+
+.blog-grid-section.portfolio-page .case-live {
+    padding: 45px 45px 45px 40px;
+}
+
+.service-details-page .blog-sidebar-item .sidebar-categories ul li a,
+.blog-grid-section.portfolio-page .blog-sidebar-item .sidebar-categories ul li a
+{
+    padding-right: 30px;
+    text-align: right;
+}
+.service-details-page .blog-sidebar-item .sidebar-title .title::after,
+.blog-grid-section.portfolio-page .blog-sidebar-item .sidebar-title .title::after,
+.blog-sidebar-section .blog-sidebar-item .sidebar-title .title::after
+ {
+    left: auto;
+    right: 0px;
+}
+.service-details-page .blog-sidebar-item .sidebar-title .title::before,
+.blog-grid-section.portfolio-page .blog-sidebar-item .sidebar-title .title::before,
+.blog-sidebar-section .blog-sidebar-item .sidebar-title .title::before
+{
+    left: auto;
+    right: 21px;
+}
+.service-details-page .blog-sidebar-item .sidebar-title .title,
+.blog-grid-section.portfolio-page .blog-sidebar-item .sidebar-title .title,
+.blog-sidebar-section .blog-sidebar-item .sidebar-title .title
+{
+    padding-left: 0px;
+    padding-right: 45px;
+    text-align: right;
+
+}
+.about-history-section{
+    direction: ltr;
+}
+
+.get-in-touch-section .form-section .input-box button{
+    display: block;
+    margin-left: auto;
+}
+
+.get-in-touch-section .form-section .input-box input{
+    padding-right: 30px;
+}
+
+.choose-section .choose-cat .choose-cat-item p {
+    padding-right: 0px;
+    padding-left: 80px;
+}
+.choose-section .choose-cat .choose-cat-item i {
+    left: auto;
+    right: 0px;
+}
+.choose-section .choose-cat .choose-cat-item {
+    padding-left: 0px;
+    padding-right: 80px;
+    text-align: right;
+}
+
+.features-section .features-item .content .about-experience h3 {
+    padding-right: 0px;
+    padding-left: 15px;
+}
+
+.features-section .features-item .content {
+    padding: 30px 15px 30px 30px;
+    text-align: right;
+}
+.blog-section .single-blog ul li i {
+    padding-right: 0px;
+    padding-left: 6px;
+}
+
+.blog-section .single-blog ul li {
+    padding-right: 0px;
+    padding-left: 15px;
+}
+.action-section .action-bg .action-btn i {
+    padding-right: 0px;
+    padding-left: 6px;
+}
+.faq-section .faq-accordion .accordion .card .card-header a::before {
+    right: auto;
+    left: 36px;
+}
+
+.faq-section .faq-accordion .accordion .card .card-header a{
+    padding-right: 40px;
+}
+
+.services-section .single-services a i{
+    transform: rotate(180deg);
+    padding-left: 5px;
+}
+.action-2-section .action-overlay .action-support .action-support-item.action-support-item-2 {
+    margin-left: 0px;
+    margin-right: 30px;
+}
+
+.faq-accordion-2 .accordion .card .card-header a::before {
+    right: auto;
+    left: 36px;
+}
+.faq-accordion-2 .accordion .card .card-header a{
+    padding-right: 30px;
+}
+
+.quote-section .quote-overlay .quote-form .input-box input[type="email"]{
+    padding-left: 70px;
+}
+.quote-section .quote-overlay .quote-form .input-box textsection {
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.quote-section .quote-overlay .quote-form .input-box input {
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.quote-section .quote-overlay .quote-form .input-box i {
+    right: auto;
+    left: 40px;
+}
+.leadership-section .leadership-item .leadership-content {
+    padding-left: 20px;
+    padding-right: 40px;
+    text-align: right;
+}
+
+.intro-video-section .intro-overlay .intro-thumb::before {
+    right: auto;
+    left: -42px;
+    transform: rotate(90deg);
+}
+.header-nav .navigation .navbar .navbar-btn .main-btn i,
+.blog-section .single-blog > a
+{
+    transform: rotate(180deg);
+}
+.intro-video-section .intro-overlay .intro-video-content .title{
+    padding-right: 0px;
+}
+
+.intro-video-section .intro-overlay .intro-video-content .text-2 {
+    padding-right: 0px;
+    padding-left: auto;
+}
+.about-section .about-item ul li a.main-btn-2 {
+    margin-left: auto;
+    margin-right: 18px;
+}
+.about-section .about-item .about-experience h3::before, 
+.about-section .about-item::before
+{
+   display: none;
+}
+.about-section .about-item .about-experience h3 {
+    padding-right: auto;
+    padding-left: 15px;
+}
+.about-section .about-item {
+    padding-left: auto;
+    padding-right: 30px;
+    text-align: right;
+}
+
+.about-section .about-thumb::before {
+    left: auto;
+    right: -200px;
+}
+
+.banner-section .banner-content ul li a span {
+    margin-right: auto;
+    margin-left: 30px;
+}
+
+.banner-section .banner-content ul li {
+    margin-right: autorgb(133, 127, 128)
+    mix-blend-mode: 75px;
+}
+.banner-section .banner-shape {
+    right: auto;
+    left: -70px;
+}
+
+.footer-section .widget-item-3 .features-sub .input-box input {
+    padding-left: 30px;
+    padding-right: 30px;
+    direction: ltr;
+}
+.footer-section .widget-item-2 .footer-list li i{
+    transform: rotate(180deg);
+}
+
+.footer-section .widget-item-2 ul li i {
+    padding-right: auto;
+    padding-left: 6px;
+}
+
+.our-choose-section .our-choose-counter-section .our-choose-counter p {
+    padding-right: 0px;
+}
+input[type=email] {
+    direction: ltr;
+    padding-left: 30px;
+}
+.our-choose-section .accordion .card .card-header a i {
+    padding-right: auto;
+    padding-left: 5px;
+    transform: rotate(180deg);
+}
+.contact-us-section .contact-overlay .contact-details .contact-form-section .input-box > i {
+    right: auto;
+    left: 0px;
+}
+.contact-us-section .contact-overlay .contact-details .contact-form-section .input-title .title {
+    padding-right: 0px;
+    padding-left: 40px;
+    display: block;
+    text-align: right;
+}
+.header-section-2.header-section .header-nav .navigation .navbar .navbar-btn a i{
+    transform: rotate(180deg);
+}
+.meet-us-section .meet-us-item a i {
+    padding-left: auto;
+    padding-right: 5px;
+    transform: rotate(180deg);
+}
+.contact-us-section .contact-overlay .contact-details .contact-form-section {
+    margin-left: auto;
+    margin-right: 40px;
+}.contact-us-section .contact-overlay .contact-details .contact-form-section .input-box button{
+    margin-left: auto;
+    display:block;
+}
+.contact-us-section .contact-overlay .contact-details .contact-form-section .input-box button i{
+    padding-left: auto;
+    padding-right: 5px;
+    transform: rotate(180deg);
+}
+.case-studies-section .single-case-studies .case-overlay a {
+    right: auto;
+    left: 0px;
+    transform: rotate(180deg);
+}
+.case-studies-section .single-case-studies .case-overlay .item {
+    left: auto;
+    right: 50px;
+    text-align: right;
+}
+.news-section .single-news .single-news-overlay > a i{
+    transform: rotate(180deg);
+}
+.case-studies-section .case-studies-active .slick-arrow.prev {
+    right: auto;
+    left: 380px;
+    transform: rotate(180deg);
+}
+.case-studies-section .case-studies-active .slick-arrow.next {
+    right: auto;
+    left: 305px;
+    transform: rotate(180deg);
+}
+
+.latest-services-section .single-services .services-content .title::before{
+    left: auto;
+    right: 0px;
+}
+.solution-play{
+    margin-right: 0px;
+    margin-left: 30px;
+}
+.single-banner .banner-overlay .banner-content a i ,
+.latest-services-section .single-services .services-content a i
+{
+    padding-left: 0px;
+    padding-right: 6px;
+    transform: rotate(180deg);
+}
+
+.navbar-expand-lg .navbar-nav{
+    margin-right: auto !important;
+    margin-left: 0px !important;
+}
+.navbar-expand-lg .navbar-nav{
+    margin-right: 30px;
+}
+
+.navbar-brand {
+    margin-right: 0px;
+    margin-left: 0px;
+}
+.header-section-2.header-section .header-nav .navigation .navbar .navbar-btn{
+    margin-left: 0px;
+    margin-right: 30px;
+}
+.header-top .right-section .language-change {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.header-top .right-section .language-change p.name i {
+    margin-right: 0px;
+    margin-left: 5px;
+}
+
+.header-top .header-left-side ul li a {
+    margin-right: 0px;
+    margin-left: 40px;
+}
+
+.header-section-2.header-section-4 .header-nav .navigation .navbar .navbar-btn a i {
+    transform: rotate(180deg);
+}
+.single-banner .banner-overlay {
+    background: -webkit-linear-gradient( 265deg, #0C59DB 0%, #0C59DB99 50%, #0C59DB00 100%)  !important;
+    background: -moz-linear-gradient( 265deg, #0C59DB 0%, #0C59DB99 50%, #0C59DB00 100%)  !important;
+    background: -o-linear-gradient( 265deg, #0C59DB 0%, #0C59DB99 50%, #0C59DB00 100%) !important ;
+    background: linear-gradient( 265deg, #0C59DB 0%, #0C59DB99 50%, #0C59DB00 100%)  !important;
+}
+.e-section-banner .single-banner .content .inner-content {
+    padding-left: 0px;
+    padding-right: 30px;
+    text-align: right;
+}
+.product-item .product-content{
+    text-align: right;
+}
+.product-summery{
+    text-align: right;
+}
+.product-summery .short-desc{
+    padding-right: 0px;
+}
+.product-summery .social-share a:last-child{
+    margin-right: 0px;
+}
+.product-details-tab .tab-content{
+    text-align: right;
+}
+
+.header-navigation .primary-menu li .submenu li .dd-trigger {
+    right: auto;
+    left: 2px;
+}
+.header-navigation .primary-menu li .submenu li .submenu {
+    left: auto;
+    right: 100%;
+}
+.header-navigation .navbar-btn a i{
+    margin-left: 0px;
+    margin-right: 10px;
+    transform: rotate(-180deg);
+}
+.auth .sign-form form .fp{
+    text-align: right;
+}
+.user-dashboard-area .user-menu ul li a{
+    text-align: right;
+}
+div.dataTables_wrapper div.dataTables_info{
+    text-align: right;
+}
+div.dataTables_wrapper div.dataTables_length label{
+    text-align: right;
+}
+.dashboard-inner .card .card-body{
+    text-align: right;
+    padding-right: 30px;
+}
+
+.user-dashboard-area .card .card-header{
+    text-align: right;
+}
+.quote-page .input-box{
+    text-align: right;
+}
+.about-history-area .history-item .history-content{
+    text-align: right;
+}
+
+.about-history-area .history-item.history-item-2 .number-box {
+    right: -100px;
+    left: auto;
+}
+.about-history-area .history-item .number-box {
+    right: auto;
+    left: -99px;
+}
+.about-history-area .history-item.history-item-2 {
+    margin-left: 0px;
+    margin-right: 55px;
+}
+.about-history-area .history-item {
+    margin-right: 0px;
+    margin-left: 55px;
+}
+.about-history-area .history-item::after {
+    right: auto;
+    left: -70px;
+}
+.about-history-area .history-item.history-item-2::after {
+    left: auto;
+    right: -72px;
+}
+.service-item-eight .services-overlay .title{
+    text-align: right;
+}
+.service-item-eight .services-overlay{
+    text-align: right;
+}
+.blog-sidebar .widget .widget-title {
+    text-align: right;
+    padding-left: 0px;
+    padding-right: 40px;
+}
+.blog-sidebar .widget .widget-title::before {
+    left: auto;
+    right: 21px;
+}
+.blog-sidebar .widget .widget-title::after {
+    left: auto;
+    right: 0px;
+}
+.blog-sidebar .widget.categories-widget ul li a{
+    text-align: right;
+    padding-right: 30px;
+    padding-left: 0px;
+}
+.blog-sidebar .widget ul{
+    text-align: right;
+}
+.blog-area .blog-grid-items .single-blog-grid{
+    text-align: right;
+}
+
+.single-blog-grid .cat{
+    left: auto;
+    right: 30px;
+}
+.blog-sidebar .case-live{
+    text-align: right;
+    
+    padding: 45px 45px 45px 0px;
+}
+.blog-sidebar .case-live .case-live-btn{
+    margin-right: 0px;
+}
+.blog-sidebar .case-live .case-live-item-area .case-live-item i{
+    left: auto;
+    right: 0px;
+}
+.team-details-content{
+    text-align: right;
+}
+.project-gallery .project-gallery-item .gallery-item .item-thumbnail .content-overlay .content .info {
+    left: auto;
+    right: 10%;
+    text-align: right;
+}
+.single-job{
+    text-align: right;
+}
+
+.single-job p {
+    padding-left: 0px;
+    padding-right: 30px;
+}
+.single-job p i {
+    left: auto;
+    right: 0px;
+}
+.single-job a i {
+    margin-left: 0px;
+    margin-right: 10px;
+    transform: rotate(-180deg);
+}
+.blog-sidebar .widget.search-widget form button {
+    right: auto;
+    left: 0px;
+}
+
+.blog-sidebar .widget.categories-widget ul li a {
+    padding-right: 20px;
+    padding-left: 30px;
+}
+.blog-sidebar .widget.categories-widget ul li a span {
+    right: auto;
+    left: 0px;
+}
+.jobdetails-area{
+    text-align: right;
+}
+
+.blog-sidebar .widget .news-feed-items .news-feed-item {
+    padding-left: 0px;
+    padding-right: 100px;
+    text-align: right;
+}
+.blog-sidebar .widget .news-feed-items .news-feed-item img {
+    left: auto;
+    right: 0px;
+}
+.blog-sidebar .widget .news-feed-items .news-feed-item span i{
+    padding-left: 6px;
+    padding-right: 0px;
+}
+.blog-dteails-content {
+    text-align: right;
+}
+.dynamicpage{
+    text-align: right !important;
+    direction: rtl;
+}
+
+.privacy-area .content-box ul.list li::before{
+    left: auto;
+    right: 0px;
+}
+
+.privacy-area .content-box ul.list li {
+    padding-left: 0px;
+    padding-right: 20px;
+}
+
+
+.ecommerce-slider .banner-slider .single-banner{
+    direction: rtl;
+}
+.gradint_body .portfolio-area .portfolio-item .portfolio-content{
+    left: auto;
+    right: 0px;
+    text-align: right;
+}
+
+.gradint_body .testimonials-section .testimonial-box .author{
+    direction: rtl;
+}
+.testimonial-box .author .desc {
+    margin-left: 0px;
+    margin-right: 10px;
+    text-align: right;
+}
+.gradint_body .about-thumb::after {
+    left: auto;
+    right: -30px;
+}
+.gradint_body .video-section-new .intro-thumb::before {
+    left: auto;
+    right: -30px;
+}
+.portfolio-item .portfolio-content {
+    text-align: right;
+}
+.testimonial-box .author{
+    direction: rtl;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 991px){
+.case-studies-section .section-title .title {
+   
+    padding-right: 0px;
+    text-align: center;
+}
+
+
+.services-title-section {
+    overflow: hidden;
+}
+.solution-play{
+    text-align: center!important;
+}
+.back-to-top {
+    bottom: 75px;
+}
+.header-nav .navigation .navbar .navbar-nav{
+    text-align: right;
+}
+.header-nav .navigation .navbar .navbar-nav .nav-item .sub-nav-toggler {
+    right: auto;
+    left: 0px;
+}
+.header-nav .navigation .navbar .navbar-nav .nav-item:hover .sub-menu{
+    text-align: right;
+}
+.meet-us-section .meet-us-item,
+.meet-us-section .meet-us-item .title,
+.action-section .action-bg .action-content .title,
+.action-section .action-overlay,
+.action-btn.text-left.text-lg-right
+{
+    text-align: center !important;
+}
+.header-top .right-section .main-btn{
+    margin-left: 0px;
+    margin-right: 20px;
+}
+.about-experience-section .experience-item .title {
+    padding-right: 0px; 
+}
+.about-experience-section .experience-item span::before{
+    display: none;
+}
+.banner-section .banner-content ul li {
+    margin-right: 0px;
+}
+.about-section .about-thumb{
+    text-align: right;
+}
+}
+
+@media (max-width: 767px){
+.our-choose-section .section-title .title{
+    margin-right: 0px;
+}
+.our-choose-section .our-choose-counter{
+    text-align: center !important;
+}
+.meet-us-section .meet-us-item {
+    height: 216px;
+}
+.header-top {
+    padding-left: 30px;
+}
+
+}
+
+@media (max-width: 575px){
+.news-section .single-news {
+    height: 280px;
+}
+.single-banner .banner-overlay {
+    height: 480px;
+}
+.contact-us-section .contact-overlay .contact-details .contact-form-section{
+    margin-right: 0px;
+}
+.contact-us-section .contact-overlay .contact-details .contact-form-section .input-title .title{
+    padding-left: 0px;
+}
+.meet-us-section .meet-us-item {
+    height: 250px;
+}
+}
+
+
+.header-navigation .header-extra .my-dropdown .my-dropdown-menu {
+    right: auto;
+    left: 0px;
+}

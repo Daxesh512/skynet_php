@@ -1,0 +1,322 @@
+body{
+    color: #dbe2fb;
+    background: #001232;
+}
+
+.header-navigation .primary-menu li a,
+.header-navigation .header-extra .my-dropdown .cart.carticon .icon,
+.header-navigation .primary-menu .megamenu-item .megamenu .tabnav a,
+.sticky-header.sticky-on .header-navigation:not(.breakpoint-on) .primary-menu > li a, 
+.sticky-header.sticky-on .header-navigation:not(.breakpoint-on) .primary-menu > li .dd-trigger,
+.product-item .product-content .title a,
+.header-navigation .header-extra .my-dropdown .my-dropdown-menu .dropdownmenu-wrapper .dropdown-cart-header .item-no,
+.header-navigation .header-extra .my-dropdown .my-dropdown-menu .dropdownmenu-wrapper .dropdown-cart-header .view-cart,
+.header-navigation .header-extra .my-dropdown .my-dropdown-menu .dropdownmenu-wrapper .dropdown-cart-products .product .product-details .content .product-title,
+.banner-slider .banner-text .title-tag,
+h1, h2, h3, h4, h5, h6,
+.banner-slider .banner-text p,
+.about-text-block .section-title .title,
+.about-history-area .history-item .number-box span,
+.header-two .header-navigation .primary-menu li a,
+.pricing-plan-item p,
+.team-details-content p,
+.accordion-three.accordion-three-two .card .card-header a.collapsed,
+.single-job p span,
+.single-job a,
+.blog-sidebar .widget.tags-widget ul a,
+.blog-dteails-content,
+.blog-sidebar .widget.product-category ul li a,
+.shop-top-bar .product-sorting select,
+.product-summery .short-desc,
+.product-summery .product-meta li span,
+.product-summery .product-meta li, 
+.product-summery .product-meta li a,
+.product-details-tab .nav .nav-item a,
+.table td, .table th,
+.product-details-tab .tab-content p,
+.product-details-tab .tab-content .review-wrapper .review-single .comnt-text .comnt-info .date-area,
+.contact-info-items .contact-info-item p,
+.conatct-section .contact-form-area .contact-form .form-title,
+.conatct-section .contact-form-area .contact-form .input-group input, 
+.conatct-section .contact-form-area .contact-form .input-group textarea,
+.cart-table table tbody tr td.product-name a,
+.cart-table table tbody tr td,
+.cart-table table tbody tr td.product-quantity input,
+.form-control,
+.header-navigation .header-extra .my-dropdown .cart .icon i,
+.header-topbar .top-right-wrapper .language-change .language-menu a,
+.header-topbar .top-left-content .language-change .language-menu a,
+.user-dashboard-area .user-menu ul li a,
+.gradint_body .video .video-wrapper .video-box .play-icon .video-popup,
+.page-item.disabled .page-link,
+.page-item .page-link,
+.gradint_body .video-section-new .counter-area-new .counter-box-new .counter,
+.gradint_body .video-section-new .counter-area-new .counter-box-new .title,
+.service-item-four .services-content .title,
+.service-item-four .services-content .service-link,
+.latest-news-box .post-content .title a,
+.latest-news-box .post-content .read-more-btn,
+.blog-sidebar .widget .news-feed-items .news-feed-item span,
+.about-text-block .about-experience span,
+p.text-color-3,
+.feature-list li p,
+.team-member .team-content .name a,
+.testimonial-box .author .desc h6,
+.portfolio-item-two .portfolio-content .title a,
+.portfolio-item-two p,
+.portfolio-item-two:hover p,
+.accordion-three .card .card-header a.collapsed,
+.service-item-six,
+.team-member-four .member-content .title a,
+.team-member-three .name a,
+.accordion-two .card .card-header a,
+.accordion-one .card .card-header a.collapsed,
+.counter-box-three .title,
+.auth .sign-form form .input-group input,
+.pricing-plan-item .plan-duration
+{
+    color: #dbe2fb; 
+}
+
+
+/* Section Background  Start*/
+.gradint_body .gradint-static-hero .banner-slider.banner-slider-one,
+.gradint_body .video,
+.gradint_body .call-to-action.c-a-2,
+.gradint_body .testimonials-section.ts-2,
+.soft-blue-bg,
+.blog-sidebar .widget.search-widget form input,
+.blog-sidebar .widget.tags-widget ul a,
+.blog-area .blog-dteails-content .blog-details-bar
+{
+    background: #001840 ;
+}
+
+/* Section Background  end*/
+
+
+/* Box Background  Start*/
+.header-navigation .header-extra .my-dropdown .my-dropdown-menu,
+.header-navigation .primary-menu li .submenu,
+.header-navigation .primary-menu .megamenu-item .megamenu,
+.product-item .product-content,
+.gradint_body .about .box .inner-box,
+.gradint_body .counter-area2 .fun-box,
+.gradint_body .testimonials-section .testimonial-box .testi-box-inner,
+.sticky-header.sticky-on .header-navigation,
+.service-item-three,
+.about-history-area .history-item .number-box,
+.about-history-area .history-item::after,
+.blog-sidebar .widget,
+.blog-sidebar .case-live,
+.pricing-plan-item::before,
+.card,
+.single-job,
+.blog-dteails-content,
+.product-summery .product-quantity span,
+.product-summery .product-quantity input,
+.product-summery .social-share a,
+.product-details-tab .nav .nav-item a,
+.product-details-tab .tab-content .review-form textarea,
+.conatct-section .contact-form-area,
+.conatct-section .contact-form-area .contact-form .input-group input, 
+.conatct-section .contact-form-area .contact-form .input-group textarea,
+.quote-page .input-box input,
+.quote-page .input-box textarea,
+.cart-table table tbody tr td.product-quantity input,
+.cart-total-box,
+.form-control,
+.header-topbar .top-right-wrapper .language-change .language-menu,
+.header-topbar .top-left-content .language-change .language-menu,
+.dashboard-inner,
+.user-dashboard-area .user-menu,
+.gradint_body .video .video-wrapper .video-box .play-icon .video-popup,
+.page-link,
+.page-item.disabled .page-link,
+.gradint_body .service-item-six .service-item-inner::before,
+.testimonial-box-two .testimonial-inner,
+.latest-news-box .post-content,
+.service-item,
+.service-item-two,
+.team-member .team-content,
+.testimonial-box p,
+.portfolio-item-two .portfolio-content,
+input, textarea, select,
+.team-member-three .team-content,
+.auth .sign-form
+{
+    background: #032055 ;
+}
+/* Box Background  End*/
+
+.gradint_body .call-to-action.c-a-2 {
+    background: #032055 !important;
+}
+.team-member-three img{
+    border-color: #032055 ;
+}
+.team-member-four .member-photo img{
+    border-color: #001840 ;
+}
+.service-item-four.no-border,
+.about-thumb::before
+{
+    background: #001232;
+}
+.latest-news-box .post-content .post-meta a{
+    color:  #dbe2fb !important;
+}
+
+.gradint_body .gradint-static-hero .banner-slider.banner-slider-one .shape1,
+.gradint_body .video .shape1,
+.gradint_body .video .shape2,
+.gradint_body .call-to-action.c-a-2 .shape1,
+.gradint_body .call-to-action.c-a-2 .shape2,
+.gradint_body .testimonials-section.ts-2 .shape1,
+.gradint_body .testimonials-section.ts-2 .shape2,
+.counter-box-four i
+{
+    display: none;
+}
+
+
+.header-topbar {
+    border-bottom: 2px solid #032055;
+}
+
+.header-navigation .header-extra .my-dropdown .my-dropdown-menu .dropdownmenu-wrapper .dropdown-cart-products .product .product-image-container {
+    border: 1px solid #032055;
+}
+.header-navigation .header-extra .my-dropdown .my-dropdown-menu .dropdownmenu-wrapper .dropdown-cart-products .product {
+    border: 1px solid #032055;
+}
+.about-history-area .history-item .number-box {
+    border: 4px solid #032055;
+}
+
+.gradint_body .call-to-action.c-a-2 {
+    padding: 130px 0px 130px;
+}
+.blog-sidebar .widget,
+.blog-sidebar .case-live,
+.accordion-three.accordion-three-two .card,
+.single-job,
+.blog-dteails-content,
+.product-details-tab .nav .nav-item a,
+.form-control
+{
+    border: none;
+}
+
+
+.latest-news-box,
+.service-item-three,
+.conatct-section .contact-form-area,
+.testimonial-box-two .testimonial-inner,
+.service-item,
+.service-item:hover
+{
+    box-shadow: none;
+}
+
+.gradint_body .blog-sidebar .case-live .case-live-btn a, .gradint_body .pricing-plan-item:hover .plans-btn {
+    border-color: #ffffff46;
+}
+
+.gradint_body .blog-sidebar .case-live .case-live-btn a, .gradint_body .pricing-plan-item .plans-btn {
+    border-color: #ffffff46;
+}
+.accordion-three .card{
+    border-color: #ffffff46 !important;
+}
+.accordion-three,
+.service-item-six,
+.portfolio-slider-three .slick-arrow,
+.counter-box-four,
+.pricing-plan-item .plans-btn,
+.auth .sign-form,
+.table td, .table th,
+.cart-table table,
+.service-item-four .services-content .title
+{
+    border-color:  #ffffff46;
+}
+.shop-top-bar .shop-search-form input ,
+.shop-top-bar .product-sorting select,
+.product-item,
+.payment-gateway .product_payment_gateway_check,
+.dashboard-inner,
+.user-dashboard-area .user-menu
+{
+
+    border: 2px solid #ffffff46;
+}
+.conatct-section .contact-form-area .contact-form .input-group input, 
+.conatct-section .contact-form-area .contact-form .input-group textarea{
+    
+    border-bottom: 2px solid #ffffff46;
+}
+.product-details-tab .nav::before {
+    background-color: #ffffff46;
+}
+.blog-sidebar .widget .news-feed-items .news-feed-item {
+    border-bottom: 1px solid #ffffff46;
+}
+
+.contact-info-items .contact-info-item,
+.contact-info-items,
+.cart-total-box .list li,
+.table-bordered td, 
+.table-bordered th,
+.page-link,
+.page-item.disabled .page-link
+{
+    border: 1px solid #ffffff46;
+}
+.table thead th {
+    border-bottom: 2px solid #ffffff46;
+}
+
+#accordionExample .card .card-body p,
+#accordionExample .card .card-body span,
+#accordionExample .card .card-body h1,
+#accordionExample .card .card-body h2,
+#accordionExample .card .card-body h3,
+#accordionExample .card .card-body h4,
+#accordionExample .card .card-body h5,
+#accordionExample .card .card-body h6,
+#accordionExample .card .card-body a,
+#accordionExample .card .card-body p span
+{
+    color: #dbe2fb !important;
+}
+
+
+
+
+.user-dashboard-area .form-control{
+    background: #001840 ;
+}
+
+
+.banner-slider.banner-slider-one .banner-text .title-tag{
+    color: #444;
+}
+
+.banner-slider.banner-slider-one .banner-text .title,
+.banner-section.home2 .banner-content .title
+{
+    color: #222;
+}
+
+.banner-slider.banner-slider-one .banner-text p{
+    color: #444;
+}
+
+.portfolio-arrow-two .slick-arrow i{
+    color: #fff !important;
+}
+
+.bg-light {
+    background-color: #032055 !important;
+}

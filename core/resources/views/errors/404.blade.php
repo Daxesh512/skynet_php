@@ -1,0 +1,1 @@
+<h1 style="display: block; text-align: center; margin-top: 400px">404</h1>
